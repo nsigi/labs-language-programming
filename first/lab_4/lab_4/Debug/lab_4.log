@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\User\Documents\Laboratory\languageProgramming\first\lab_4\lab_4\Source.cpp(66,13): error C2676: бинарный "==": "VectorTD" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
